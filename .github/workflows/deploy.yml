@@ -1,6 +1,6 @@
-name: 
-
-on:
+name: Pipeline Node.js
+ 
+on: 
   push:
     branches:
       - main
